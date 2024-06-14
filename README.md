@@ -1,1 +1,5 @@
 # Course_selling_website
+
+The E-course/online course is the course which delivered electronically over the internenthese courses are typically designed to be taken by student who learn more skill and increase the level of the knowledge many online course are self-paced which means that student can work or study at their own schedule.
+                           Additionally online course often allow for more interaction and collaboration between student and instructors and it open the door to student to learn anytime anywhere and from any instructor as well as it open the door to instructor to spread their knowledge and learning with the student.
+                          Online courses is basically student and instructor/ Teacher interaction platform which meet the student and Teacher to student learn, develop or enhance their skill and grow professionally and learn new thing and ready to make future ready and also give instructor/ Teacher to spread their knowledge across global student
